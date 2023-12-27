@@ -1,36 +1,12 @@
 {
-  "storeHouse": [
-    {
-      "sourceName": "默认",
-      "sourceUrl": "https://raw.githubusercontent.com/mlabalabala/TVResource/main/boxCfg/ori_source.json"
-    },
-  {
-      "sourceName": "饭太硬线路",
-      "sourceUrl": "http://饭太硬.top/tv"
-    },
-  {
-      "sourceName": "巧计",
-      "sourceUrl": "http://pandown.pro/tvbox/tvbox.json"
-    },
-  {
-      "sourceName": "莱尼斯",
-      "sourceUrl": "https://tvbox.cainisi.cf"
-    },
-  {
-      "sourceName": "烧零",
-      "sourceUrl": "https://xhdwc.tk/0"
-    },
-  {
-      "sourceName": "终南",
-      "sourceUrl": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"
-    },
- {
-      "sourceName": "肥猫",
-      "sourceUrl": "http://肥猫.love"
-    },
-    {
-      "sourceName": "起飞",
-      "sourceUrl": "https://raw.githubusercontent.com/mlabalabala/TVResource/main/boxCfg/sp_source.json"
-    }
-  ]
+    "urls": [
+        {
+            "url": "http://饭太硬.top/tv",
+            "name": "🚀饭太硬线路"
+        },
+        {
+            "url": "http://肥猫.love",
+            "name": "🚀肥猫线路"
+        }
+    ]
 }
