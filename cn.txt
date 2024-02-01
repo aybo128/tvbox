@@ -54,7 +54,7 @@
                 "id": "2",
                 "route": [
                     {
-                        "uri": "河南卫视,https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000",
+                        "uri": "https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000",
                         "grade": 90,
                         "dpi": 1080
                     }
