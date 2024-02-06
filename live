@@ -484,6 +484,7 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/str
 山西卫视,http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d04ce01474da4193c8863ea281ec4759
 山东卫视,http://58.19.13.92:9901/tsfile/live/1025_1.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
+影视台,#genre#
 [BD]chc动作电影,https://epg.pw/stream/2f2e29b8759a2458730dc1f3686024472691952a50e787fe075944d0cb17f36e.ctv
 [BD]chc高清电影[ipv6],https://epg.pw/stream/0fc644caf6205b2dd46b84766084d0a90eff010686f75b2fd646bdcf1943883d.m3u8
 [BD]newtv动作电影[ipv6],https://epg.pw/stream/6fdbeaebf72d19e82c4db2858a3ad1c5deddf612acf750303519cddc2086be84.m3u8
@@ -503,7 +504,6 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/str
 [SD]绍兴新闻综合,https://epg.pw/stream/0c479cc20f3eb20b09af243763f3f347b95748ccf86126cf662483e9a75c2e3c.m3u8
 [BD]都市剧场,https://epg.pw/stream/a71e07f6cbd3312516acb0e57d051b658f6c883a8962fef4e6e950241bc230c7.m3u8
 [BD]云南影视,https://epg.pw/stream/738a72f80690b1c6f06ad0a7543f0d084c8bf90a096b3e6c44706660250fc345.m3u8
-电影轮播,#genre#
 林正英电影2,http://epg.112114.xyz/douyu/7356023
 女神金电影,http://epg.112114.xyz/douyu/747764
 贝爷影厅2,http://epg.112114.xyz/douyu/36337
@@ -541,6 +541,7 @@ CHC动作电影,http://58.19.13.92:9901/tsfile/live/1037_1.m3u8
 电影54,https://live.metshop.top/huya/11342435
 电影61,https://live.metshop.top/huya/11352965
 电影66,https://live.metshop.top/huya/11601960
+电影轮播,#genre#
 剧集_新三国,https://live.metshop.top/huya/11352944
 剧集_新水浒,https://live.metshop.top/huya/11342384
 剧集_庆余年,https://live.metshop.top/huya/11352960
@@ -1196,6 +1197,7 @@ X战警系列电影,http://43.138.170.29:35455/yy/1382736893
 命中注定我爱你-泰剧,http://43.138.170.29:35455/yy/1354930903
 大家都在看的警匪片,http://43.138.170.29:35455/yy/1354930964
 武工队传奇,http://43.138.170.29:35455/yy/22089862
+港台,#genre#
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 有線新聞,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
 時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
@@ -1248,6 +1250,7 @@ TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 華語電視2,http://38.64.72.148:80/hls/modn/list/4002/chunklist1.m3u8
 華語電視3,http://38.64.72.148:80/hls/modn/list/4003/chunklist1.m3u8
+小地方台,#genre#
 [BD]newtv精品纪录[ipv6],https://epg.pw/stream/e257d9addea5a06a15a971f5c617c2fe1f35ddd1768e58d866359da4a3a93c81.m3u8
 [BD]上海纪实人文[ipv6],https://epg.pw/stream/a39d2f506a1d61aff55547242c58f67499e74fd9cc0b6560f2cefd3409d4df29.m3u8
 [BD]金鹰纪实,https://epg.pw/stream/e315ceabf401c1ff3137b66f82fda9495138bc05b689dc5c5651fc924ce0787c.m3u8
@@ -1345,6 +1348,7 @@ TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 [HD]南京娱乐 (720p),https://epg.pw/stream/865a6ce4e34a3196604931f20a68039e8b218db157d4d956f4bbf9d7e777de64.m3u8
 [BD]安徽综艺体育,https://epg.pw/stream/52a67a7e9039d1da74047e93f2e80984a72f6c4103046de2f54f89c6b9607514.m3u8
 [BD]安徽综艺,https://epg.pw/stream/af542df52a4128f36bece82b0a65ccd7cf8db5dc36951fe04bd4e656d08f6e0e.m3u8
+电影轮播,#genre#
 状王宋世杰,http://43.138.170.29:35455/huya/23735153
 乾隆大帝,http://43.138.170.29:35455/huya/23860049
 降魔的,http://43.138.170.29:35455/huya/23734211
